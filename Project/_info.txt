@@ -1,0 +1,2 @@
+*MicroPaint*
+Project was developed on Visual Studio 2010 Ultimate! (technology - WinAPI)
